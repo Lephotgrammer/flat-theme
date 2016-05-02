@@ -17,4 +17,70 @@
 /* Parte Sandra */
 
 /* Parte Stefy */
+
+/* Parte 3 */
+.gray{
+	background-color: #F3F3F3;
+	padding: 20px;
+}
+.button-orange{
+	background-color: #C54435;
+	border: 1px solid #B13932;
+	color: white;
+}
+.box-img{
+	background-color: #FFFFFF; 
+	padding: 10px; 
+	border: 1px solid #F3F3F3;
+}
+.box-img a{
+	text-decoration: none;
+	color: black;
+}
+
+/* Parte 4 */
+.orange{
+	background-color: #C54435;
+	color: white;
+	padding: 20px;
+}
+.orange-title{
+	padding: 30px;
+}
+.small-white{
+	color: white;
+}
+
+/* Parte 5 */
+.blue{
+	background-color: #2B394A;
+	color: white;
+}
+.list-company{
+	list-style: none;
+	margin-left: -30px;
+}
+.list-company a{
+	color: white;
+}
+.letter-posted{
+	font-size: 10px;
+}
+.letter-address{
+	line-height: 5px;
+}
+.input input{
+	width: 200px;
+	border-radius: 5px;
+	padding: 5px;
+	border: 1px solid white;
+}
+.input button{
+	padding: 5px;
+	background-color: #C54435;
+	color: white;
+	border-radius: 0 5px 5px 0;
+	margin-left: -6px;
+	border: 1px solid #C54435;
+}
 /* Parte Stefy */ 
