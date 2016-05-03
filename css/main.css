@@ -14,68 +14,150 @@
   clear: both;
 }
 /* Parte Sandra */
+
+/*header*/
+.menu-color .row {
+	padding: 2% 0%;
+}
+.menu-color ul, li{
+	display: inline-block;
+	color: white;
+}
+.menu-color {
+	background-color: #34405e;
+}
+nav a {
+	padding: 10px 15px;
+	color: #838f9a;
+}
+nav a:hover {
+	background-color: #2c3e50;
+	color: white;
+	text-decoration: none;
+}
+.activo {
+	background: #2c3e50;
+	color: whitesmoke;
+}
+.whitesmoke {
+	color: whitesmoke;
+}
+/*fin header*/
+/*section bg-image*/
+.bg-1 {
+	background-image: url("../images/slider/bg1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+.parrafo {
+	margin-top: 200px;
+	margin-bottom: 250px;
+}
+/*fin section bg-image*/
+/*section verde*/
+.verde {
+	background-color: #2ecc71;
+}
+.iconnos {
+	font-size: 36px;
+	border-radius: 50%;
+    width: 68px;
+    line-height: 68px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: #1c7a44;
+    text-align: center;
+    display: block;
+}
+.iconnos:hover {
+	background-color: pink;
+	color: black;
+}
+.servicios {
+	color: white;
+	margin-top: 50px;
+    margin-bottom: 70px;
+}
+/*fin section verde*/
+/*footer*/
+.shape {
+	display: inline-block;
+}
+footer a {
+	padding: 0px 15px;
+	color: #838f9a;
+}
+footer a:hover {
+	color: white;
+	text-decoration: none;
+}
+footer p {
+	padding: 0px 15px;
+	color: #838f9a;
+	margin: 0;
+}
 /* Parte Sandra */
 
 /* Parte Stefy */
-
 /* Parte 3 */
-.gray{
+.gray {
 	background-color: #F3F3F3;
 	padding: 20px;
 }
-.button-orange{
+.button-orange {
 	background-color: #C54435;
 	border: 1px solid #B13932;
 	color: white;
 }
-.box-img{
+.box-img {
 	background-color: #FFFFFF; 
 	padding: 10px; 
 	border: 1px solid #F3F3F3;
 }
-.box-img a{
+.box-img a {
 	text-decoration: none;
 	color: black;
 }
 
 /* Parte 4 */
-.orange{
+.orange {
 	background-color: #C54435;
 	color: white;
 	padding: 20px;
 }
-.orange-title{
+.orange-title {
 	padding: 30px;
 }
-.small-white{
+.small-white {
 	color: white;
 }
 
 /* Parte 5 */
-.blue{
+.blue {
 	background-color: #2B394A;
 	color: white;
 }
-.list-company{
+.list-company {
 	list-style: none;
 	margin-left: -30px;
 }
-.list-company a{
+.list-company a {
 	color: white;
 }
-.letter-posted{
+.letter-posted {
 	font-size: 10px;
 }
-.letter-address{
+.letter-address {
 	line-height: 5px;
 }
-.input input{
+.input input {
 	width: 200px;
 	border-radius: 5px;
 	padding: 5px;
 	border: 1px solid white;
 }
-.input button{
+.input button {
 	padding: 5px;
 	background-color: #C54435;
 	color: white;
