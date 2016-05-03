@@ -140,14 +140,20 @@ footer p {
 /* Parte 5 */
 .blue {
 	background-color: #2B394A;
+	color: #838f9a;
+}
+.blue h3 {
 	color: white;
 }
 .list-company {
 	list-style: none;
 	margin-left: -30px;
 }
+.list-company li {
+	display: block;
+}
 .list-company a {
-	color: white;
+	color: #838f9a;
 }
 .letter-posted {
 	font-size: 10px;
@@ -259,7 +265,24 @@ textarea {
 	background-color: #a2c335;
 	color: black;
 }
+.burger {
+	display: none;
+	visibility: hidden;
+	font-size: 25px;
+	color: white;
+}
 /*fin services*/
+/*@media query*/
+@media (max-width: 768px) {
+	.desaparecer {
+		display: none;
+		visibility: hidden;
+	}
+	.burger {
+		display: block;
+		visibility: visible;
+	}
+}
 
 
 
