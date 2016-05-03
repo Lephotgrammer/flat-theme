@@ -166,3 +166,110 @@ footer p {
 	border: 1px solid #C54435;
 }
 /* Parte Stefy */ 
+/* Fin index principal */
+/* Blog Item */
+.letra-blanca {
+	color: white;
+}
+.list-3-item {
+	text-align: right;
+	margin: 50px;
+	background-color: #2ecc71;
+}
+.list-3-item a {
+	color: white;
+}
+/* Seccion blanca */
+.mg-row {
+	padding: 4% 0%;
+}
+.blanca{
+	background-color: #F3F3F3;
+}
+.bg-white{
+	background-color: white;
+}
+.radius-up {
+	margin: 0 0 0 -15px;
+	border-radius: 10px 10px 0 0;
+}
+.list-comments li{
+	color: gray;
+	padding: 5px;
+}
+.list-comments {
+	margin-left: -40px;
+}
+.list-comments a {
+	color: gray;
+	padding: 2px;
+}
+.etiqueta {
+	padding: 5px;
+	font-size: 12px;
+	border: 1px solid blue;
+}
+.tags {
+	margin: 5px 0 10px 0;
+}
+.letra-tags {
+	font-size: 16px;
+}
+.comentario {
+	padding: 20px;
+}
+.bg-comment {
+	background-color: #F3F3F3;
+	padding: 20px;
+}
+.bg-gray {
+	background-color: #F3F3F3;
+	padding: 20px;
+}
+.img-radius {
+	border-radius: 50px;
+}
+.text-min {
+	font-size: 10px;
+}
+.margin-left {
+	padding-left: 70px;
+}
+.large {
+	width: 100%;
+}
+.large-table {
+	height: 30%;
+	width: 100%;
+	padding-top: 10px;
+}
+.height-table {
+	padding-top: 20px;
+	padding-bottom: 200px;
+}
+.btn-orange {
+	background-color: #B74942;
+	border: 1px solid #B13932;
+	padding: 10px;
+	color: white;
+	border-radius: 10px;
+	margin: 10px 0 10px 0;
+}
+.btn-orange-2 {
+	background-color: #B74942;
+	color: white;
+}
+.images-4 img {
+	padding: 10px;
+	border-radius: 20px;
+}
+.lista-categories li {
+	display: block;
+}
+.lista-blog li {
+	display: block;
+}
+.lista-blog {
+	display: inline-block;
+}
+/* Fin Blog Item */
