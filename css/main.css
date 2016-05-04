@@ -282,12 +282,7 @@ textarea {
 		display: block;
 		visibility: visible;
 	}
-	.primero {
-		left: 100%;
-	}
-
 }
-
 /* Fin index principal */
 /* Blog Item */
 .letra-blanca {
@@ -413,3 +408,5 @@ textarea {
     border: 5px solid #F3F3F3;
 }
 /* Fin Portfolio */
+
+
